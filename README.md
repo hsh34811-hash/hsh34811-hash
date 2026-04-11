@@ -168,18 +168,26 @@
 ## :fire: What I'm Up To | :fire: ماذا أفعل الآن
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=100&section=header&text=✘%20RAVEN%20TERMINAL&fontSize=40&animation=fadeIn&fontColor=00FFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=80&section=header&text=✘%20RAVEN%20CONTROL%20CENTER&fontSize=30&fontColor=00FFFF&animation=twinkle" width="100%"/>
 
   <br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=350&section=header&text=const%20raven%20=%20{%20code:%20['JS',%20'Python',%20'Java'],%20focus:%20'Scaling%20Systems',%20mood:%20'Coffee%20Driven',%20status:%20'Legendary'%20};&fontSize=18&fontAlignY=50&fontColor=00FFFF&animation=twinkle" width="800" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=10000&color=00FFFF&center=true&vCenter=true&width=500&height=300&lines=const+raven+=+%7B;++++code:+['JS',+'Py',+'Go'];++++focus:+'Scalability';++++status:+'Legendary';%7D;" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/System_Status-Running_Stable-00FF00?style=for-the-badge&logo=statuspage&logoColor=white" />
+  <img src="https://img.shields.io/badge/Current_Mission-Building_The_Future-blueviolet?style=for-the-badge&logo=rocket&logoColor=white" />
 </div>
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/hsh34811-hash/hsh34811-hash/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hsh34811-hash&layout=compact&theme=tokyonight&hide_border=true" alt="Coding Activity" />
 </div>
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
