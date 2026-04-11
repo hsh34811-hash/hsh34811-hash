@@ -168,28 +168,7 @@
 ## :fire: What I'm Up To | :fire: ماذا أفعل الآن
 
 <div align="center">
-
-```javascript
-const raven = {
-    code: ["JavaScript", "Python", "TypeScript", "Java", "C++", "PHP", "Go"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vue", "Next.js"],
-            css: ["Tailwind", "Bootstrap", "Sass"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            python: ["Django", "Flask", "FastAPI"],
-            java: ["Spring"]
-        },
-        databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis", "Firebase"],
-        devOps: ["Docker", "Kubernetes", "AWS", "Git", "Linux"],
-    },
-    currentFocus: "Building Scalable Web Applications",
-    funFact: "I can code for 12 hours straight with just coffee ☕"
-};
-```
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=1500&pause=500&color=00FFFF&center=true&vCenter=true&width=800&lines=const+raven+%3D+%7B;+++code%3A+%5B"JS"%2C+"Python"%2C+"Java"%2C+"Go"%5D;+++focus%3A+"Building+Scalable+Web+Apps";+++status%3A+"Learning+new+tech+daily";+++funFact%3A+"Code+is+humor";%7D%3B;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7%D9%8B+%D8%A8%D9%83+%D9%81%D9%8A+%D8%B4%D8%A7%D8%B4%D8%A9+%D8%A7%D9%84%D8%AA%D8%AD%D9%83%D9%85;%D9%85%D9%88%D8%A7%D8%B5%D9%81%D8%A7%D8%AA+%D8%A7%D9%84%D9%85%D8%B7%D9%88%D8%B1+%✘+𝙍𝘼𝙑𝙀𝙉;+++%D9%84%D8%BA%D8%A7%D8%AA%3A+%5B"جافا_سكريبت"%2C+"بايثون"%2C+"جافا"%5D;+++%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%B2%3A+"بناء+تطبيقات+قابلة+%D9%84%D9%84%D8%AA%D9%88%D8%B3%D8%B9";+++%D8%A7%D9%84%D8%AD%D8%A7%D9%84%D8%A9%3A+"أتعلم+يومياً"%2C+"أصلح+الأخطاء"%D8%9B" alt="Typing SVG" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
