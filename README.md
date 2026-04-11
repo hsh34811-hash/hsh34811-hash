@@ -96,11 +96,8 @@
 ## :bar_chart: GitHub Stats | :bar_chart: إحصائيات GitHub
 
 <div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hsh34811-hash&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=00ffff&icon_color=00ffff&text_color=c9d1d9&bg_color=0d1117)](https://github.com/hsh34811-hash)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hsh34811-hash&layout=compact&hide_border=true&title_color=00ffff&text_color=c9d1d9&bg_color=0d1117&langs_count=10)](https://github.com/hsh34811-hash)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=hsh34811-hash&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ffff&icon_color=00ffff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsh34811-hash&layout=compact&theme=tokyonight&hide_border=true&title_color=00ffff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" height="150" />
 </div>
 
 <br/>
