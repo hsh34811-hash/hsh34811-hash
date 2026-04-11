@@ -168,7 +168,17 @@
 ## :fire: What I'm Up To | :fire: ماذا أفعل الآن
 
 <div align="center">
-  <img src="https://gist.githubusercontent.com/hsh34811-hash/cd15ff11181284d720b6045811776b66/raw/terminal_decrypting.gif" alt="Raven Cyberpunk Terminal" width="800" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=100&section=header&text=✘%20RAVEN%20TERMINAL&fontSize=40&animation=fadeIn&fontColor=00FFFF" />
+
+  <br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=350&section=header&text=const%20raven%20=%20{%20code:%20['JS',%20'Python',%20'Java'],%20focus:%20'Scaling%20Systems',%20mood:%20'Coffee%20Driven',%20status:%20'Legendary'%20};&fontSize=18&fontAlignY=50&fontColor=00FFFF&animation=twinkle" width="800" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/hsh34811-hash/hsh34811-hash/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 
