@@ -114,11 +114,19 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## :trophy: GitHub Trophies | :trophy: جوائز GitHub
+## :trophy: Technical Achievements & Awards | :trophy: الإنجازات التقنية والجوائز
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=hsh34811-hash&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&column=7)](https://github.com/hsh34811-hash)
+  <img src="https://img.shields.io/badge/Open_Source-Legendary_Contributor-00ffff?style=for-the-badge&logo=github&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Full_Stack-Master_Architect-FFD700?style=for-the-badge&logo=opsgenie&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Algorithms-S__Rank_Solver-ff0000?style=for-the-badge&logo=hackerearth&logoColor=white" />
+  
+  <br/>
+
+  <img src="https://img.shields.io/badge/Clean_Code-Evangelist-00ff00?style=for-the-badge&logo=sonarlint&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Security-Red_Team_Certified-A52A2A?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/System-Scalability_Expert-007ACC?style=for-the-badge&logo=diagrams.net&logoColor=white" />
 
 </div>
 
