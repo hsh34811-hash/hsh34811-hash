@@ -168,16 +168,17 @@
 ## :fire: What I'm Up To | :fire: ماذا أفعل الآن
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=80&section=header&text=✘%20RAVEN%20CONTROL%20CENTER&fontSize=30&fontColor=00FFFF&animation=twinkle" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=100&section=header&text=✘%20RAVEN%20SYSTEM%20V3.0&fontSize=35&fontColor=00FFFF&animation=glitch" width="100%"/>
 
   <br/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=10000&color=00FFFF&center=true&vCenter=true&width=500&height=300&lines=const+raven+=+%7B;++++code:+['JS',+'Py',+'Go'];++++focus:+'Scalability';++++status:+'Legendary';%7D;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hsh34811-hash&show_icons=true&theme=tokyonight&rank_icon=github&display_format=v2&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsh34811-hash&layout=compact&theme=tokyonight&hide_border=true" width="300" />
 
-  <br/>
+  <br/><br/>
 
-  <img src="https://img.shields.io/badge/System_Status-Running_Stable-00FF00?style=for-the-badge&logo=statuspage&logoColor=white" />
-  <img src="https://img.shields.io/badge/Current_Mission-Building_The_Future-blueviolet?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/CORE_ENGINE-STABLE-00FF00?style=for-the-badge&logo=cpu&logoColor=white" />
+  <img src="https://img.shields.io/badge/MISSION-SCALING_AUTOMATION-blueviolet?style=for-the-badge&logo=target&logoColor=white" />
 </div>
 
 <br/>
@@ -185,8 +186,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hsh34811-hash&layout=compact&theme=tokyonight&hide_border=true" alt="Coding Activity" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=5000&color=00FFFF&center=true&vCenter=true&width=600&lines=TERMINAL+ACTIVE;SYSTEM+READY+FOR+DEPLOY;✘+RAVEN+IS+CODING..." />
 </div>
+
 
 
 
