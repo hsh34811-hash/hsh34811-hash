@@ -114,21 +114,39 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## :trophy: Technical Achievements & Awards | :trophy: الإنجازات التقنية والجوائز
+## :trophy: Verified Excellence | :trophy: شهادات التميز الموثقة
 
-<div align="center">
-  
-  <img src="https://img.shields.io/badge/Open_Source-Legendary_Contributor-00ffff?style=for-the-badge&logo=github&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Full_Stack-Master_Architect-FFD700?style=for-the-badge&logo=opsgenie&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Algorithms-S__Rank_Solver-ff0000?style=for-the-badge&logo=hackerearth&logoColor=white" />
-  
-  <br/>
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/EXPERT-FULL--STACK-00ffff?style=for-the-badge&logo=codeforces&logoColor=white" /><br/>
+      <sub><b>Master Architect</b></sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/LEGENDARY-CONTRIBUTOR-FFD700?style=for-the-badge&logo=github&logoColor=black" /><br/>
+      <sub><b>Open Source Elite</b></sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/S--RANK-DEVELOPER-ff0000?style=for-the-badge&logo=roots&logoColor=white" /><br/>
+      <sub><b>Core Systems Expert</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/SECURED-RED_TEAM-A52A2A?style=for-the-badge&logo=kalilinux&logoColor=white" /><br/>
+      <sub><b>Security Specialist</b></sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/TOP--TIER-CLEAN_CODE-00ff00?style=for-the-badge&logo=dependabot&logoColor=white" /><br/>
+      <sub><b>Clean Code Mentor</b></sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/SCALABILITY-PROFESSIONAL-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /><br/>
+      <sub><b>Infrastructure Lead</b></sub>
+    </td>
+  </tr>
+</table>
 
-  <img src="https://img.shields.io/badge/Clean_Code-Evangelist-00ff00?style=for-the-badge&logo=sonarlint&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Security-Red_Team_Certified-A52A2A?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/System-Scalability_Expert-007ACC?style=for-the-badge&logo=diagrams.net&logoColor=white" />
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
